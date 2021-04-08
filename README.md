@@ -1,13 +1,13 @@
 # An analysis of Kickstarter Campaigns
 
-#### This analysis contains the following:
-  ##### - Contents
-  ##### - Overview
-  ##### - Analysis and Chanllenges
-  ##### - Results
-  ##### - tables, charts, plots, descriptive statistics
-  ##### - comparative analysis
-  ##### - Recommendations
+    #### This analysis contains the following:
+     ##### - Contents
+     ##### - Overview
+     ##### - Analysis and Chanllenges
+     ##### - Results
+     ##### - tables, charts, plots, descriptive statistics
+     ##### - comparative analysis
+     ##### - Recommendations
 
 ### Overview of Project
 This project analyzes data from Kickstarter Campaigns to help identify trends that lead to the success or failures of campaigns. The analysis was done to help an artist gauge the potential success of her kickstarter campaign. Subcategories, color-coding, pictures, and other items were used to help easily identify trends in this data.
